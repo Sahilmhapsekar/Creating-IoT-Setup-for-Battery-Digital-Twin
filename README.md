@@ -1,6 +1,6 @@
 # Creating IoT Setup for Battery Digital Twin
 
-IoT prototype that integrates Electrochemical Impedance Spectroscopy (EIS) with a battery digital twin. Implemented a low-amplitude sinusoidal excitation (STM32 / Arduino experiments), UART data logging, and initial impedance estimation for an INR18650-30Q cell. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+IoT prototype that integrates Electrochemical Impedance Spectroscopy (EIS) with a battery digital twin. Implemented a low-amplitude sinusoidal excitation (STM32 / Arduino experiments), UART data logging, and initial impedance estimation for an INR18650-30Q cell.
 
 ## Key features
 - DAC-based sine-wave generation (STM32G4 series) and PWM-based proof-of-concept (Arduino). :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}  
